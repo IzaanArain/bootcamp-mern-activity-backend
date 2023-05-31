@@ -15,7 +15,7 @@ TrackerFit was built using the MERN stack, which includes MongoDB, Express.js, R
 - Responsive design
 - react-bootstrap
 
-## Project-sceenshots
+## Project-screenshots
 
 ## Login-page
 ![login page](https://github.com/IzaanArain/bootcamp-mern-activity-frontend/assets/102476680/3288282c-5370-48b0-a20f-d03f86d8e05a)
